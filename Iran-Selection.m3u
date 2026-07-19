@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:18 type="stream" channelId="-1", Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+#EXTINF:100 type="stream" channelId="-1", VoA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Iran Wire TV
+https://irwhls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", PMC
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="3504", 4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:28 type="stream" channelId="-1", AFN TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:100 type="stream" channelId="-1", AVA Family (720p) [Not 24/7]
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", AVA Series (720p)
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", Cafe Trade TV (720p)
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", Erfan Halgheh TV (720p)
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:102 type="stream" channelId="-1", FX TV Iran (720p)
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:96 type="stream" channelId="-1", ICC TV (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:80 type="stream" channelId="-1", ITN (720p) [Not 24/7]
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", Kanal Jadid (720p)
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:20 type="stream" channelId="-1", Payvand TV (720p) [Not 24/7]
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:30 type="stream" channelId="-1", Mihan TV (720p)
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:96 type="stream" channelId="-1", Omide Iran (720p) [Not 24/7]
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", OXIR TV (720p)
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:29 type="stream" channelId="-1", Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:79 type="stream" channelId="-1", Ran TV Israel (720p)
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+#EXTINF:100 type="stream" channelId="-1", SL 1 (720p)
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", SL 2 (720p)
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:100 type="stream" channelId="-1", TBN Nejat TV (720p)
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tapesh 2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV INT
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", National Geographic Wild (USA East HD)
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Persiana Sports
+https://stream.live12.ir/hls2/persiana.m3u8
+#EXTINF:0 type="stream" channelId="-1", Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Irane Farda
+https://iranefardalive.com/stream/live.m3u8
