@@ -17,6 +17,8 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:28 type="stream" channelId="-1", AFN TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Novin TV
+ https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:100 type="stream" channelId="-1", AVA Family (720p) [Not 24/7]
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:100 type="stream" channelId="-1", AVA Series (720p)
