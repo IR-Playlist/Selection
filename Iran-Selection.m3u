@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:18 type="stream" channelId="-1", Iran International (1080p)
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:0 type="stream" channelId="-1", BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
 #EXTINF:100 type="stream" channelId="-1", VoA Persian
